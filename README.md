@@ -1,4 +1,9 @@
+
 # Flock
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guldurguldur/flock/refs/heads/main/screenshot.png" alt="Açıklama" width="600">
+</p>
 
 **English** | [Türkçe](#türkçe)
 
