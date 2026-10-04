@@ -38,4 +38,5 @@ Licensed under the [Apache License 2.0](LICENSE).
 Flock, x.com üzerindeki gerçek *Takip Et* / *Takibi Bırak* düğmelerine yavaş ve rastgele aralıklarla, molalar ve günlük güvenlik sınırıyla tıklar. Sunucu ya da hesap gerektirmez, tüm veriler tarayıcınızda kalır.
 
 Kullanmadan önce [DISCLAIMER.md](DISCLAIMER.md) dosyasına bakın.
+
 Apache License 2.0 ile lisanslanmıştır: [LICENSE](LICENSE).
