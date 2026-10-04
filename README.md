@@ -21,6 +21,8 @@ Flock clicks the real *Follow* / *Unfollow* buttons on x.com at a slow, randomiz
 
 See [DISCLAIMER.md](DISCLAIMER.md) before using it.
 
+Licensed under the [Apache License 2.0](LICENSE).
+
 ---
 
 ## Türkçe
@@ -36,3 +38,4 @@ See [DISCLAIMER.md](DISCLAIMER.md) before using it.
 Flock, x.com üzerindeki gerçek *Takip Et* / *Takibi Bırak* düğmelerine yavaş ve rastgele aralıklarla, molalar ve günlük güvenlik sınırıyla tıklar. Sunucu ya da hesap gerektirmez, tüm veriler tarayıcınızda kalır.
 
 Kullanmadan önce [DISCLAIMER.md](DISCLAIMER.md) dosyasına bakın.
+Apache License 2.0 ile lisanslanmıştır: [LICENSE](LICENSE).
